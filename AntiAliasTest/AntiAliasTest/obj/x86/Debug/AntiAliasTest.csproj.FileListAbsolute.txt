@@ -1,0 +1,7 @@
+C:\Users\tobisako\GoogleDrive\_EVENT\20130727_ゲームプログラミング勉強会\AntiAliasTest\AntiAliasTest\bin\Debug\AntiAliasTest.exe
+C:\Users\tobisako\GoogleDrive\_EVENT\20130727_ゲームプログラミング勉強会\AntiAliasTest\AntiAliasTest\bin\Debug\AntiAliasTest.pdb
+C:\Users\tobisako\GoogleDrive\_EVENT\20130727_ゲームプログラミング勉強会\AntiAliasTest\AntiAliasTest\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\tobisako\GoogleDrive\_EVENT\20130727_ゲームプログラミング勉強会\AntiAliasTest\AntiAliasTest\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\tobisako\GoogleDrive\_EVENT\20130727_ゲームプログラミング勉強会\AntiAliasTest\AntiAliasTest\obj\x86\Debug\AntiAliasTest.csproj.GenerateResource.Cache
+C:\Users\tobisako\GoogleDrive\_EVENT\20130727_ゲームプログラミング勉強会\AntiAliasTest\AntiAliasTest\obj\x86\Debug\AntiAliasTest.exe
+C:\Users\tobisako\GoogleDrive\_EVENT\20130727_ゲームプログラミング勉強会\AntiAliasTest\AntiAliasTest\obj\x86\Debug\AntiAliasTest.pdb

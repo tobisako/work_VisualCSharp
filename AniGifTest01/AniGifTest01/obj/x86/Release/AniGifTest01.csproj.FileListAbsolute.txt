@@ -1,0 +1,46 @@
+C:\Users\tobisako\AppData\Local\Temporary Projects\AniGifTest01\bin\Release\AniGifTest01.exe
+C:\Users\tobisako\AppData\Local\Temporary Projects\AniGifTest01\bin\Release\AniGifTest01.pdb
+C:\Users\tobisako\AppData\Local\Temporary Projects\AniGifTest01\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\tobisako\AppData\Local\Temporary Projects\AniGifTest01\obj\x86\Release\AniGifTest01.Form1.resources
+C:\Users\tobisako\AppData\Local\Temporary Projects\AniGifTest01\obj\x86\Release\AniGifTest01.Properties.Resources.resources
+C:\Users\tobisako\AppData\Local\Temporary Projects\AniGifTest01\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\tobisako\AppData\Local\Temporary Projects\AniGifTest01\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\tobisako\AppData\Local\Temporary Projects\AniGifTest01\obj\x86\Release\AniGifTest01.exe
+C:\Users\tobisako\AppData\Local\Temporary Projects\AniGifTest01\obj\x86\Release\AniGifTest01.pdb
+C:\Users\tobisako\documents\visual studio 2010\Projects\AniGifTest01\AniGifTest01\bin\Release\AniGifTest01.exe
+C:\Users\tobisako\documents\visual studio 2010\Projects\AniGifTest01\AniGifTest01\bin\Release\AniGifTest01.pdb
+C:\Users\tobisako\documents\visual studio 2010\Projects\AniGifTest01\AniGifTest01\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\tobisako\documents\visual studio 2010\Projects\AniGifTest01\AniGifTest01\obj\x86\Release\AniGifTest01.Form1.resources
+C:\Users\tobisako\documents\visual studio 2010\Projects\AniGifTest01\AniGifTest01\obj\x86\Release\AniGifTest01.Properties.Resources.resources
+C:\Users\tobisako\documents\visual studio 2010\Projects\AniGifTest01\AniGifTest01\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\tobisako\documents\visual studio 2010\Projects\AniGifTest01\AniGifTest01\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\tobisako\documents\visual studio 2010\Projects\AniGifTest01\AniGifTest01\obj\x86\Release\AniGifTest01.exe
+C:\Users\tobisako\documents\visual studio 2010\Projects\AniGifTest01\AniGifTest01\obj\x86\Release\AniGifTest01.pdb
+C:\Documents and Settings\tobisako\My Documents\Visual Studio 2010\Projects\AniGifTest01\AniGifTest01\bin\Release\AniGifTest01.exe
+C:\Documents and Settings\tobisako\My Documents\Visual Studio 2010\Projects\AniGifTest01\AniGifTest01\bin\Release\AniGifTest01.pdb
+C:\Documents and Settings\tobisako\My Documents\Visual Studio 2010\Projects\AniGifTest01\AniGifTest01\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\tobisako\My Documents\Visual Studio 2010\Projects\AniGifTest01\AniGifTest01\obj\x86\Release\AniGifTest01.Form1.resources
+C:\Documents and Settings\tobisako\My Documents\Visual Studio 2010\Projects\AniGifTest01\AniGifTest01\obj\x86\Release\AniGifTest01.Properties.Resources.resources
+C:\Documents and Settings\tobisako\My Documents\Visual Studio 2010\Projects\AniGifTest01\AniGifTest01\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\tobisako\My Documents\Visual Studio 2010\Projects\AniGifTest01\AniGifTest01\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\tobisako\My Documents\Visual Studio 2010\Projects\AniGifTest01\AniGifTest01\obj\x86\Release\AniGifTest01.exe
+C:\Documents and Settings\tobisako\My Documents\Visual Studio 2010\Projects\AniGifTest01\AniGifTest01\obj\x86\Release\AniGifTest01.pdb
+C:\Documents and Settings\tobisako\My Documents\Dropbox\20130727_ゲームプログラミング勉強会\AniGifTest01\AniGifTest01\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\tobisako\My Documents\Dropbox\20130727_ゲームプログラミング勉強会\AniGifTest01\AniGifTest01\obj\x86\Release\AniGifTest01.Form1.resources
+C:\Documents and Settings\tobisako\My Documents\Dropbox\20130727_ゲームプログラミング勉強会\AniGifTest01\AniGifTest01\obj\x86\Release\AniGifTest01.Properties.Resources.resources
+C:\Documents and Settings\tobisako\My Documents\Dropbox\20130727_ゲームプログラミング勉強会\AniGifTest01\AniGifTest01\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\tobisako\My Documents\Dropbox\20130727_ゲームプログラミング勉強会\AniGifTest01\AniGifTest01\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\tobisako\My Documents\Dropbox\20130727_ゲームプログラミング勉強会\AniGifTest01\AniGifTest01\obj\x86\Release\AniGifTest01.exe
+C:\Documents and Settings\tobisako\My Documents\Dropbox\20130727_ゲームプログラミング勉強会\AniGifTest01\AniGifTest01\obj\x86\Release\AniGifTest01.pdb
+C:\Documents and Settings\tobisako\My Documents\Dropbox\20130727_ゲームプログラミング勉強会\AniGifTest01\AniGifTest01\bin\Release\AniGifTest01.exe
+C:\Documents and Settings\tobisako\My Documents\Dropbox\20130727_ゲームプログラミング勉強会\AniGifTest01\AniGifTest01\bin\Release\AniGifTest01.pdb
+C:\Documents and Settings\tobisako\My Documents\Dropbox\20130727_ゲームプログラミング勉強会\AniGifTest01\AniGifTest01\obj\x86\Release\AniGifTest01.HogeFormClass.resources
+C:\Users\tobis_000\Dropbox\20130727_ゲームプログラミング勉強会\AniGifTest01\AniGifTest01\bin\Release\AniGifTest01.exe
+C:\Users\tobis_000\Dropbox\20130727_ゲームプログラミング勉強会\AniGifTest01\AniGifTest01\bin\Release\AniGifTest01.pdb
+C:\Users\tobis_000\Dropbox\20130727_ゲームプログラミング勉強会\AniGifTest01\AniGifTest01\obj\x86\Release\AniGifTest01.csprojResolveAssemblyReference.cache
+C:\Users\tobis_000\Dropbox\20130727_ゲームプログラミング勉強会\AniGifTest01\AniGifTest01\obj\x86\Release\AniGifTest01.Form1.resources
+C:\Users\tobis_000\Dropbox\20130727_ゲームプログラミング勉強会\AniGifTest01\AniGifTest01\obj\x86\Release\AniGifTest01.HogeFormClass.resources
+C:\Users\tobis_000\Dropbox\20130727_ゲームプログラミング勉強会\AniGifTest01\AniGifTest01\obj\x86\Release\AniGifTest01.Properties.Resources.resources
+C:\Users\tobis_000\Dropbox\20130727_ゲームプログラミング勉強会\AniGifTest01\AniGifTest01\obj\x86\Release\AniGifTest01.csproj.GenerateResource.Cache
+C:\Users\tobis_000\Dropbox\20130727_ゲームプログラミング勉強会\AniGifTest01\AniGifTest01\obj\x86\Release\AniGifTest01.exe
+C:\Users\tobis_000\Dropbox\20130727_ゲームプログラミング勉強会\AniGifTest01\AniGifTest01\obj\x86\Release\AniGifTest01.pdb
